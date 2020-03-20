@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "471759305602",
+    "firebase_url": "https://noted-palisade-258815.firebaseio.com",
+    "project_id": "noted-palisade-258815",
+    "storage_bucket": "noted-palisade-258815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471759305602:android:88f00084b021c47be9ed9b",
+        "android_client_info": {
+          "package_name": "com.example.mysimpleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471759305602-sihgfrjl2mbojpu2m3i8utha4b2ncorj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0FLrrZL6EzgB4iryYdD-cd6v2QDF1O9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471759305602-sihgfrjl2mbojpu2m3i8utha4b2ncorj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
